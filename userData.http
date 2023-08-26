@@ -7,11 +7,11 @@ POST http://localhost:3000/register
 Content-Type: application/json
 
 {   
-    "name":"Sanjeev",
-    "username":"Sanjeev123",
-    "password": "Sanjeev@456",
+    "name":"SanjeevGoud",
+    "username":"Sanjeev12345",
+    "password": "Sanjeev@4567",
     "gender": "Male",
-    "location":"hyderabad"
+    "location":"hyderabads"
 }
 
 ###
